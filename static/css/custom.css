@@ -1,0 +1,40 @@
+body {
+    background: #f7f7f7;
+}
+
+.logo__img {
+    margin-left: 16px;
+}
+
+.logo__title {
+    color: #ffffff;
+    background: #415968;
+}
+
+.logo__link {
+    background: #415968;
+}
+
+.logo__tagline {
+    color: #ffffff;
+    background: #415968;
+}
+
+.menu__list {
+    background: #415968;
+}
+
+footer.footer {
+    background: #415968;
+}
+
+@media screen and (max-width: 767px) {
+    .logo__link {
+        background: #415968;
+    }
+
+    .logo__title {
+        color: #ffffff;
+        background: #415968;
+    }
+}
